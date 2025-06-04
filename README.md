@@ -12,14 +12,6 @@ Me apasiona construir soluciones escalables, eficientes y de alto rendimiento, t
 
 🚀 **Siempre en busca de nuevos desafíos** y colaboraciones donde pueda contribuir con mi experiencia y aprender de equipos talentosos.
 
-Soy un **Desarrollador Full Stack** con más de 6 años de experiencia en la creación de aplicaciones web y móviles. Tengo un fuerte dominio en tecnologías como **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **Node.js**, **Express**, **Next.js**, **PHP**, **Laravel**, **Golang** y bases de datos como **PostgreSQL**, **MongoDB** y **SQLite**.
-
-Me apasiona construir soluciones escalables, eficientes y de alto rendimiento, trabajando tanto en el frontend como en el backend. Mi enfoque siempre es la **calidad del código**, la **optimización de procesos** y el **trabajo en equipo**. Me adapto a nuevas tecnologías con facilidad y disfruto enfrentando retos técnicos.
-
-🌍 **Disponible para proyectos freelance y trabajos a medio tiempo (part-time)**, con interés en oportunidades remotas a nivel internacional.
-
-🚀 **Siempre en busca de nuevos desafíos** y colaboraciones donde pueda contribuir con mi experiencia y aprender de equipos talentosos.
-
 ---
 
 ### 📩 **Contacto**:
